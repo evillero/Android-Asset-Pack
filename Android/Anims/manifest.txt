@@ -1,0 +1,37 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: android1
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: android2
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: android3
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: android_logo
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: android_logo_1
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 3
